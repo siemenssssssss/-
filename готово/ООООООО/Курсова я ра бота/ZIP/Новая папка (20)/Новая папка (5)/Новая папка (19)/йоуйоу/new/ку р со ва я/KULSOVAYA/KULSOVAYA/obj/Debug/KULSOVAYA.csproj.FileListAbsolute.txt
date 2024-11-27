@@ -1,0 +1,216 @@
+T:\TazhbaevAA\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+T:\TazhbaevAA\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+T:\TazhbaevAA\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+T:\TazhbaevAA\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csprojAssemblyReference.cache
+T:\TazhbaevAA\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+T:\TazhbaevAA\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+T:\TazhbaevAA\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+T:\TazhbaevAA\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+T:\TazhbaevAA\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+T:\TazhbaevAA\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\Student22ISP2\Desktop\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\Student22ISP2\Desktop\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\Student22ISP2\Desktop\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\Student22ISP2\Desktop\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csprojAssemblyReference.cache
+C:\Users\Student22ISP2\Desktop\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\Student22ISP2\Desktop\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\Student22ISP2\Desktop\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\Student22ISP2\Desktop\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\Student22ISP2\Desktop\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\Student22ISP2\Desktop\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\Student22ISP2\Desktop\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form3.resources
+C:\Users\ACER\Desktop\курсовая\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\курсовая\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\ACER\Desktop\курсовая\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\ACER\Desktop\курсовая\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form3.resources
+C:\Users\ACER\Desktop\курсовая\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\ACER\Desktop\курсовая\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\курсовая\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\курсовая\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\курсовая\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\курсовая\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\ACER\Desktop\курсовая\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\курсовая\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\курсовая\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form4.resources
+C:\Users\ACER\Desktop\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\ACER\Desktop\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\ACER\Desktop\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\ACER\Desktop\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form3.resources
+C:\Users\ACER\Desktop\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form4.resources
+C:\Users\ACER\Desktop\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form5.resources
+C:\Users\ACER\Desktop\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\ACER\Desktop\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.AssemblyReference.cache
+C:\Users\Student22ISP2\Desktop\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\Student22ISP2\Desktop\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\Student22ISP2\Desktop\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\Student22ISP2\Desktop\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csprojAssemblyReference.cache
+C:\Users\Student22ISP2\Desktop\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\Student22ISP2\Desktop\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\Student22ISP2\Desktop\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form3.resources
+C:\Users\Student22ISP2\Desktop\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form4.resources
+C:\Users\Student22ISP2\Desktop\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form5.resources
+C:\Users\Student22ISP2\Desktop\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\Student22ISP2\Desktop\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\Student22ISP2\Desktop\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\Student22ISP2\Desktop\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\Новая папка (13)\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\ACER\Desktop\Новая папка (13)\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\Новая папка (13)\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\Новая папка (13)\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\ACER\Desktop\Новая папка (13)\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\ACER\Desktop\Новая папка (13)\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form3.resources
+C:\Users\ACER\Desktop\Новая папка (13)\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form4.resources
+C:\Users\ACER\Desktop\Новая папка (13)\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form5.resources
+C:\Users\ACER\Desktop\Новая папка (13)\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\ACER\Desktop\Новая папка (13)\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Новая папка (13)\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Новая папка (13)\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\Новая папка (13)\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\Новая папка (13)\kurso va ya\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.AssemblyReference.cache
+C:\Users\Student22ISP2\Desktop\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\Student22ISP2\Desktop\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\Student22ISP2\Desktop\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\Student22ISP2\Desktop\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csprojAssemblyReference.cache
+C:\Users\Student22ISP2\Desktop\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\Student22ISP2\Desktop\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\Student22ISP2\Desktop\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form3.resources
+C:\Users\Student22ISP2\Desktop\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form4.resources
+C:\Users\Student22ISP2\Desktop\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form5.resources
+C:\Users\Student22ISP2\Desktop\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\Student22ISP2\Desktop\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\Student22ISP2\Desktop\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\Student22ISP2\Desktop\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\zip zip\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\ACER\Desktop\zip zip\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\zip zip\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\zip zip\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\zip zip\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\ACER\Desktop\zip zip\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\ACER\Desktop\zip zip\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form3.resources
+C:\Users\ACER\Desktop\zip zip\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form4.resources
+C:\Users\ACER\Desktop\zip zip\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form5.resources
+C:\Users\ACER\Desktop\zip zip\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\ACER\Desktop\zip zip\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\zip zip\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\zip zip\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\zip zip\Новая папка (3)\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\Student22ISP2\Desktop\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\Student22ISP2\Desktop\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\Student22ISP2\Desktop\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\Student22ISP2\Desktop\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csprojAssemblyReference.cache
+C:\Users\Student22ISP2\Desktop\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\Student22ISP2\Desktop\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\Student22ISP2\Desktop\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form3.resources
+C:\Users\Student22ISP2\Desktop\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form4.resources
+C:\Users\Student22ISP2\Desktop\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form5.resources
+C:\Users\Student22ISP2\Desktop\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\Student22ISP2\Desktop\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\Student22ISP2\Desktop\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\Student22ISP2\Desktop\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\ACER\Desktop\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\ACER\Desktop\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\ACER\Desktop\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form3.resources
+C:\Users\ACER\Desktop\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form4.resources
+C:\Users\ACER\Desktop\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form5.resources
+C:\Users\ACER\Desktop\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form6.resources
+C:\Users\ACER\Desktop\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\ACER\Desktop\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\ACER\Desktop\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\ACER\Desktop\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\ACER\Desktop\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form3.resources
+C:\Users\ACER\Desktop\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form4.resources
+C:\Users\ACER\Desktop\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form5.resources
+C:\Users\ACER\Desktop\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form6.resources
+C:\Users\ACER\Desktop\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\ACER\Desktop\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\Student22ISP2\Desktop\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\Student22ISP2\Desktop\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\Student22ISP2\Desktop\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\Student22ISP2\Desktop\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csprojAssemblyReference.cache
+C:\Users\Student22ISP2\Desktop\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\Student22ISP2\Desktop\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\Student22ISP2\Desktop\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form3.resources
+C:\Users\Student22ISP2\Desktop\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form4.resources
+C:\Users\Student22ISP2\Desktop\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form5.resources
+C:\Users\Student22ISP2\Desktop\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form6.resources
+C:\Users\Student22ISP2\Desktop\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\Student22ISP2\Desktop\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\Student22ISP2\Desktop\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\Student22ISP2\Desktop\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\ACER\Desktop\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\ACER\Desktop\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\ACER\Desktop\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form4.resources
+C:\Users\ACER\Desktop\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\ACER\Desktop\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\ACER\Desktop\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\ACER\Desktop\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\ACER\Desktop\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form4.resources
+C:\Users\ACER\Desktop\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\ACER\Desktop\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\Student22ISP2\Desktop\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\Student22ISP2\Desktop\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\Student22ISP2\Desktop\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\Student22ISP2\Desktop\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csprojAssemblyReference.cache
+C:\Users\Student22ISP2\Desktop\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\Student22ISP2\Desktop\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\Student22ISP2\Desktop\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form4.resources
+C:\Users\Student22ISP2\Desktop\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\Student22ISP2\Desktop\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\Student22ISP2\Desktop\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\Student22ISP2\Desktop\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\ACER\Desktop\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\ACER\Desktop\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\ACER\Desktop\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\ACER\Desktop\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\готово\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form1.resources
+C:\Users\ACER\Desktop\готово\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Form2.resources
+C:\Users\ACER\Desktop\готово\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Properties.Resources.resources
+C:\Users\ACER\Desktop\готово\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.Отчёты.resources
+C:\Users\ACER\Desktop\готово\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\готово\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\готово\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe.config
+C:\Users\ACER\Desktop\готово\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\готово\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\bin\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\готово\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.exe
+C:\Users\ACER\Desktop\готово\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.pdb
+C:\Users\ACER\Desktop\готово\ООООООО\Курсова я ра бота\ZIP\Новая папка (20)\Новая папка (5)\Новая папка (19)\йоуйоу\new\ку р со ва я\KULSOVAYA\KULSOVAYA\obj\Debug\KULSOVAYA.csproj.AssemblyReference.cache
